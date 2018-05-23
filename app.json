@@ -23,7 +23,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/php"
+            "url": "https://github.com/ise-sfg/heroku-buildpack-php"
         }
     ]
 }
